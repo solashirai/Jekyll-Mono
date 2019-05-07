@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-TODO: Write up this about page eventually.
-
 ## Research Interests
 
-TODO: 
+* Natural Language Processing \
+* Machine Learning
 
 ## Education
 
-* ?
+* PhD Student in Computer Science, Rensselaer Polytechnic Institute 
 * BS in Computer Science, Worcester Polytechnic Institute
 
 ## Contact
