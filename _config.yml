@@ -20,7 +20,7 @@ user:
   pic: /assets/img/twc_shiras2_profilepic_smol.jpg
   picAlt: "solashirai"
   job: Computer Science PhD Student
-  contact: solashakashirai [at] gmail [dot] com
+  contact: solashakashirai~at~gmail~dot~com
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
