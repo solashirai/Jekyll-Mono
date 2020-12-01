@@ -2,9 +2,7 @@
 title: Sola #Your awesome title
 email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sola's homepage.
 
 baseurl: # the subpath of the site
 url: http://shiras2.github.io/ # the base hostname & protocol for your site
@@ -22,6 +20,7 @@ user:
   pic: /assets/img/twc_shiras2_profilepic_smol.jpg
   picAlt: "solashirai"
   job: Computer Science PhD Student
+  contact: solashakashirai [at] gmail [dot] com
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
