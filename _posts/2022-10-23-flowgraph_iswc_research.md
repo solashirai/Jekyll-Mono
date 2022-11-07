@@ -1,6 +1,6 @@
 ---
 title: ISWC Research and Workshop Papers
-categories: [personalization, knowledge_graph]
+categories: [personalization, knowledge_graph, event_prediction, context]
 comments: true
 ---
 
@@ -10,7 +10,7 @@ My submission for the research track at the 2022 [International Semantic Web Con
  parse natural language instructions into flow graphs as well as a novel embedding method
  which we can use to then identify plausible ingredient substitions.
 
-![EaT-PIM motivating example image](https://github.com/solashirai/solashirai.github.io/blob/master/assets/img/new_running_example_resized.png)
+![EaT-PIM motivating example image](../assets/img/new_running_example_resized.png)
  
 The repo of the code used in this work, as well as a copy of the camera ready version of our paper,
 is available [here](https://github.com/boschresearch/EaT-PIM).
