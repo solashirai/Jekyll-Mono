@@ -1,6 +1,6 @@
 ---
 title: Externship Started at IBM Research
-categories: [knowledge_graph, event_forecasting]
+categories: [knowledge_graph, event_prediction]
 comments: true
 ---
 
