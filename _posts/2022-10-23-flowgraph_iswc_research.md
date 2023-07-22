@@ -1,5 +1,5 @@
 ---
-title: ISWC Research and Workshop Papers
+title: ISWC 2022 Research and Workshop Papers
 categories: [personalization, knowledge_graph, event_prediction, context]
 comments: true
 ---
