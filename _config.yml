@@ -19,7 +19,7 @@ user:
   name: Sola S. Shirai
   pic: /assets/img/sola_profile_jul23.jpg
   picAlt: "solashirai"
-  job: Computer Science PhD Student
+  job: Research Scientist
   contact: solashakashirai~at~gmail~dot~com
   aboutme: true # comment this out if you don't need the 'about' page.
   publications: true
